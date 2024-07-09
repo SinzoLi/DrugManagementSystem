@@ -2,27 +2,27 @@ This project is designed to provide a comprehensive system for managing and anal
 The application includes three main web pages: a login page, a home page, and a dashboard page.
 
 Front-end:
-VUE + Typescript + Element-ui + Echarts
+VUE + Typescript + Element-ui + Echarts.
 
 Back-end:
-Express + Node.js
+Express + Node.js.
 
 Database:
-MySQL
-Tables: Drugs, users, stastics
+MySQL,
+Tables: Drugs, users, stastics.
 
 Log in page:
-Log in
+Log in.
 
 Home page:
-Add stock
-Consume stock
-Edit drug
-Delete drug
-Create new drug
+Add stock,
+Consume stock,
+Edit drug,
+Delete drug,
+Create new drug,
 
 Dashboard page:
-Perform statistical analysis on drug replenishment and consumption
+Perform statistical analysis on drug replenishment and consumption.
 
 To start this project:
 (1) clone this project
