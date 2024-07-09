@@ -1,1 +1,11 @@
-This project is designed to provide a comprehensive system for managing and analyzing drug data for two factories, W1 and SLY. The system consists of a frontend built with Vue 3, TypeScript, ECharts, and Element UI, and a backend powered by Node.js and Express, with MySQL as the database. The application includes three main web pages: a login page, a management page, and a dashboard page.
+This project is designed to provide a comprehensive system for managing and analyzing drug data for two factories, W1 and SLY. 
+The application includes three main web pages: a login page, a management page, and a dashboard page.
+
+Front-end:
+VUE + Typescript + Element-ui
+
+Back-end:
+Express + Node.js
+
+Database:
+MySQL
