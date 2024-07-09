@@ -2,7 +2,7 @@ This project is designed to provide a comprehensive system for managing and anal
 The application includes three main web pages: a login page, a home page, and a dashboard page.
 
 Front-end:
-VUE + Typescript + Element-ui + Echarts.
+VUE + Javascript + Element-ui + Echarts.
 
 Back-end:
 Express + Node.js.
